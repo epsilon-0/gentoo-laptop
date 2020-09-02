@@ -1,0 +1,21 @@
+# sets of fonts that I like and
+# I generally want them present
+
+# nice fonts for doing coding
+media-fonts/anonymous-pro
+media-fonts/fira-code
+
+# this one has a lot of icons
+# and unicode files
+media-fonts/fontawesome
+
+# same with these two, in addtion
+# the following two also bring in noto-cjk
+media-fonts/noto
+media-fonts/noto-emoji
+
+# good font for using in real tty
+media-fonts/terminus-font
+
+# standard font from gnome
+media-fonts/cantarell

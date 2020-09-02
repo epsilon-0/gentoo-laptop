@@ -1,0 +1,12 @@
+
+
+# required by x11-libs/gtk+-3.24.13::gentoo
+# required by media-plugins/gst-plugins-gtk-1.14.5::gentoo[-gles2,opengl]
+# required by media-libs/gst-plugins-bad-1.14.5::gentoo[gtk]
+# required by media-plugins/gst-plugins-faad-1.14.5::gentoo
+# required by media-plugins/gst-plugins-meta-1.14.3::gentoo[aac]
+# required by app-emulation/wine-vanilla-4.0.2::gentoo[gstreamer]
+# required by virtual/wine-0-r7::gentoo
+# required by app-emulation/playonlinux-4.3.4::gentoo
+# required by playonlinux (argument)
+>=media-libs/libepoxy-1.5.4 abi_x86_32

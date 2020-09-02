@@ -1,0 +1,9 @@
+
+
+# required by www-client/torbrowser-launcher-0.3.2::torbrowser[python_single_target_python3_6]
+# required by torbrowser-launcher (argument)
+>=app-crypt/gpgme-1.13.0-r1 python
+
+# required by kde-apps/kmail-19.08.3::gentoo
+# required by kmail (argument)
+>=app-crypt/gpgme-1.13.0-r1 qt5

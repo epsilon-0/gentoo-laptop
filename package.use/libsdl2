@@ -1,0 +1,7 @@
+media-libs/libsdl2	gles2
+
+# required by app-emulation/wine-vanilla-4.0.2::gentoo[sdl]
+# required by virtual/wine-0-r7::gentoo
+# required by app-emulation/playonlinux-4.3.4::gentoo
+# required by playonlinux (argument)
+>=media-libs/libsdl2-2.0.10 haptic abi_x86_32

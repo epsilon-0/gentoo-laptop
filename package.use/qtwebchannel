@@ -1,0 +1,6 @@
+
+
+# required by dev-qt/qtwebengine-5.13.2::gentoo
+# required by net-misc/nextcloud-client-2.5.2::gentoo
+# required by nextcloud-client (argument)
+>=dev-qt/qtwebchannel-5.13.2 qml

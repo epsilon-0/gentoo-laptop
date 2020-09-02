@@ -1,0 +1,24 @@
+# a lot of the system tools
+# that should generally be present in any sane system
+# a system logging facility is generally a good idea
+app-admin/syslog-ng
+# plus we also keep the logs properly sized
+app-admin/logrotate
+# we work using doas instead of sudo
+app-admin/doas
+# we should definitely have a good cron daemon
+# install virtual/cron for gentoos default
+virtual/cron
+# almost cannot live without telnet
+net-misc/telnet-bsd
+# also get a serial console support for unknown times
+# and arm connections
+net-dialup/minicom
+# daily data collection and indexing using locate
+sys-apps/mlocate
+# getting a terminal multiplexer is also a dank idea
+app-misc/tmux
+# given that the top is not the same as openbsd
+sys-process/htop
+# also should get a smtp for cron jobs
+mail-mta/opensmtpd

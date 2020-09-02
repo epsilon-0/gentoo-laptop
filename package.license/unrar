@@ -1,0 +1,3 @@
+# required by games-util/lutris-0.5.4-r1::gentoo
+# required by lutris (argument)
+app-arch/unrar unRAR

@@ -1,0 +1,76 @@
+# a fine tuned installation of gnome
+# cuz there are a LOT of things which we might not
+# want
+
+# lets get rid of the meta gnome pacakge
+# and install the ones needed manually
+#gnome-base/gnome
+gnome-base/gnome-core-libs
+gnome-base/gnome-core-apps
+# lets get rid of GDM and use
+# sddm instead
+#gnome-base/gdm
+x11-misc/sddm
+x11-misc/aerial-sddm-theme
+
+# these are the default
+x11-wm/mutter
+gnome-base/gnome-shell
+gnome-extra/gnome-shell-extensions
+
+media-fonts/cantarell
+x11-themes/gnome-backgrounds
+x11-themes/sound-theme-freedesktop
+gnome-base/gvfs
+
+# A lot of gnome apps that are installed manually
+# instead of depending on the whole package
+
+# get a better camera app instead of cheese
+#media-video/cheese
+media-video/webcamoid
+
+# we remove the standard browser and use the firefox
+# browser
+#www-client/epiphany-${PV}
+www-client/firefox-bin
+
+# we dont need the evolution app as we are using
+# thunderbird instead
+#mail-client/evolution-${PV}
+mail-client/thunderbird-bin
+
+# we do need a file previewer for nautilus
+gnome-extra/sushi
+
+# hardware monitoring
+# baobab is a disk usage analyzer
+sys-apps/baobab
+sys-apps/gnome-disk-utility
+gnome-extra/gnome-system-monitor
+
+# wtf is this shit? nobody uses cd anymore
+# dont need the burner
+#media-sound/sound-juicer
+
+# we dont need to host a VNC server
+# just connecting to one is fine
+#net-misc/vino
+net-misc/vinagre
+
+# editing gnome settings are possible
+# through these two apps
+gnome-base/dconf-editor
+gnome-extra/gnome-tweaks
+
+# this is the default file archive manager
+# lets keep it as its quite good
+app-arch/file-roller
+
+app-dicts/gnome-dictionary
+gnome-extra/nautilus-sendto
+gnome-extra/gnome-characters
+gnome-extra/gnome-weather
+gnome-extra/gucharmap
+media-gfx/gnome-font-viewer
+media-gfx/gnome-screenshot

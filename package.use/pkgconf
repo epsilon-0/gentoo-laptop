@@ -1,0 +1,8 @@
+
+
+# required by virtual/pkgconfig-1::gentoo
+# required by app-emulation/wine-vanilla-4.0.2::gentoo
+# required by virtual/wine-0-r7::gentoo
+# required by app-emulation/playonlinux-4.3.4::gentoo
+# required by playonlinux (argument)
+>=dev-util/pkgconf-1.6.3 abi_x86_32

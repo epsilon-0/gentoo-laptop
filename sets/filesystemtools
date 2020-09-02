@@ -1,0 +1,12 @@
+# various file system related tools that
+# should be present for general access
+# msdos, vfat
+sys-fs/dosfstools
+# ntfs fs
+sys-fs/ntfs3g
+# xfs fs
+sys-fs/xfsprogs
+# for btrfs
+sys-fs/btrfs-progs
+# nfs fs
+net-fs/nfs-utils

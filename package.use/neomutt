@@ -1,0 +1,5 @@
+
+
+# required by mail-client/mutt-wizard-9999::wayfire-desktop
+# required by mutt-wizard (argument)
+>=mail-client/neomutt-20180716 notmuch

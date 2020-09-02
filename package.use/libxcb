@@ -1,0 +1,11 @@
+
+
+# required by media-libs/mesa-19.2.8::gentoo[X]
+# required by media-libs/gst-plugins-base-1.14.5-r1::gentoo[-gles2,opengl]
+# required by media-plugins/gst-plugins-cdparanoia-1.14.5::gentoo
+# required by media-plugins/gst-plugins-meta-1.14.3::gentoo[cdda]
+# required by app-emulation/wine-vanilla-4.0.2::gentoo[gstreamer]
+# required by virtual/wine-0-r7::gentoo
+# required by app-emulation/playonlinux-4.3.4::gentoo
+# required by playonlinux (argument)
+>=x11-libs/libxcb-1.13.1 abi_x86_32

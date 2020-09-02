@@ -1,0 +1,7 @@
+# required by virtual/ttf-fonts-1-r1::gentoo
+# required by media-libs/fontconfig-2.13.0-r4::gentoo
+# required by media-gfx/imagemagick-7.0.9.14::gentoo[fontconfig]
+# required by media-fonts/noto-emoji-20190328::gentoo
+# required by @selected
+# required by @world (argument)
+media-fonts/corefonts MSttfEULA

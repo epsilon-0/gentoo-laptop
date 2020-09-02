@@ -1,0 +1,8 @@
+
+
+# required by net-nds/openldap-2.4.48::gentoo[-gnutls,ssl,-libressl]
+# required by app-emulation/wine-vanilla-4.0.2::gentoo[ldap]
+# required by virtual/wine-0-r7::gentoo
+# required by app-emulation/playonlinux-4.3.4::gentoo
+# required by playonlinux (argument)
+>=dev-libs/openssl-1.1.1d-r3 abi_x86_32

@@ -1,0 +1,7 @@
+
+
+# required by app-emulation/wine-vanilla-4.0.2::gentoo[gecko]
+# required by virtual/wine-0-r7::gentoo
+# required by app-emulation/playonlinux-4.3.4::gentoo
+# required by playonlinux (argument)
+>=app-emulation/wine-gecko-2.47-r1 abi_x86_32
