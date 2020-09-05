@@ -5,8 +5,6 @@
 # plus some VPN utilities
 net-vpn/wireguard-tools
 # also get tor connectivity
-net-vpn/tor
-# and also allow others to go in
 net-proxy/torsocks
 # get the UFW firewall because it is understandable
 net-firewall/ufw

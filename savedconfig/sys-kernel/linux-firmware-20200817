@@ -768,6 +768,7 @@ i915/kbl_guc_ver9_14.bin
 i915/kbl_guc_ver9_39.bin
 i915/kbl_huc_4.0.0.bin
 i915/kbl_huc_ver02_00_1810.bin
+i915/rkl_dmc_ver2_02.bin
 i915/skl_dmc_ver1.bin
 i915/skl_dmc_ver1_23.bin
 i915/skl_dmc_ver1_26.bin
@@ -783,9 +784,11 @@ i915/skl_huc_2.0.0.bin
 i915/skl_huc_ver01_07_1398.bin
 i915/tgl_dmc_ver2_04.bin
 i915/tgl_dmc_ver2_06.bin
+i915/tgl_dmc_ver2_08.bin
 i915/tgl_guc_35.2.0.bin
 i915/tgl_huc_7.0.12.bin
 i915/tgl_huc_7.0.3.bin
+i915/tgl_huc_7.5.0.bin
 imx/sdma/sdma-imx6q.bin
 imx/sdma/sdma-imx7d.bin
 inside-secure/eip197_minifw/ifpp.bin
@@ -1064,10 +1067,13 @@ mellanox/mlxsw_spectrum-13.2000.1886.mfa2
 mellanox/mlxsw_spectrum-13.2000.2308.mfa2
 mellanox/mlxsw_spectrum-13.2000.2714.mfa2
 mellanox/mlxsw_spectrum-13.2007.1168.mfa2
+mellanox/mlxsw_spectrum-13.2008.1036.mfa2
 mellanox/mlxsw_spectrum2-29.2000.2308.mfa2
 mellanox/mlxsw_spectrum2-29.2000.2714.mfa2
 mellanox/mlxsw_spectrum2-29.2007.1168.mfa2
+mellanox/mlxsw_spectrum2-29.2008.1036.mfa2
 mellanox/mlxsw_spectrum3-30.2007.1168.mfa2
+mellanox/mlxsw_spectrum3-30.2008.1036.mfa2
 meson/vdec/g12a_h264.bin
 meson/vdec/g12a_hevc_mmu.bin
 meson/vdec/g12a_vp9.bin

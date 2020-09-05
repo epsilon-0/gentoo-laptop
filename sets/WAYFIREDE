@@ -1,0 +1,102 @@
+# tools and utilities to mimick a desktop environment
+# using wayfire and its components
+
+##### BASIC DESKTOP
+
+# things made by ammen99
+gui-apps/wcm
+gui-apps/wf-shell
+
+# get gtkgreet login manager
+gui-apps/gtkgreet
+
+##### NATIVE WAYLAND APPS
+
+# output configurations
+gui-apps/kanshi
+
+# desktop notifications
+gui-apps/mako
+
+# idle and lockscreen
+gui-apps/swayidle
+gui-apps/swaylock
+
+# launchers
+gui-apps/nwg-launchers
+
+# basic terminal
+x11-terms/alacritty
+
+# screenshots and video
+gui-apps/grim
+gui-apps/slurp
+gui-apps/wf-recorder
+
+
+####### gnome core apps
+
+# some font utilities
+gnome-extra/gnome-characters
+gnome-extra/gucharmap
+media-gfx/gnome-font-viewer
+
+# nautilus is pretty nice file manager
+gnome-base/nautilus
+gnome-extra/nautilus-sendto
+# file previewer for nautilus
+gnome-extra/sushi
+
+# this is the default file archive manager
+# lets keep it as its quite good
+app-arch/file-roller
+
+# editing settings and themes
+x11-themes/kvantum
+gnome-base/dconf-editor
+
+# password managements utilities 
+app-crypt/gcr
+app-crypt/seahorse
+gnome-base/gnome-keyring
+
+# default theme
+x11-themes/adwaita-icon-theme
+
+# bluetooth support
+net-wireless/gnome-bluetooth
+
+# also get a sound theme
+x11-themes/sound-theme-freedesktop
+
+####### gnome extra apps
+
+# for notification get mako
+# disk management utilities
+sys-apps/baobab
+sys-apps/gnome-disk-utility
+gnome-base/gvfs
+
+# for connecting to remote desktops
+net-misc/vinagre
+
+# some dictionary utilities
+app-dicts/gnome-dictionary
+app-text/aspell
+
+# lets get rid of the meta gnome pacakge
+# and install the ones needed manually
+x11-themes/sound-theme-freedesktop
+gnome-base/gvfs
+
+# camera app instead
+media-video/cheese
+####### other utilities
+
+# other things not part of gnome but good to have
+# browser
+www-client/firefox-bin
+
+# use thunderbird instead of any other email client
+mail-client/thunderbird-bin
+
