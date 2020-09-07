@@ -1,5 +1,7 @@
 # a lot of the system tools
 # that should generally be present in any sane system
+# get proper system time
+net-misc/openntpd
 # a system logging facility is generally a good idea
 app-admin/syslog-ng
 # plus we also keep the logs properly sized
@@ -9,8 +11,6 @@ app-admin/doas
 # we should definitely have a good cron daemon
 # install virtual/cron for gentoos default
 virtual/cron
-# almost cannot live without telnet
-net-misc/telnet-bsd
 # also get a serial console support for unknown times
 # and arm connections
 net-dialup/minicom

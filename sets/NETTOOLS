@@ -1,6 +1,11 @@
 # only things required for various types of
 # connectivity
 
+# network analyzers
+net-analyzer/netcat
+net-analyzer/tcpdump
+# almost cannot live without telnet
+net-misc/telnet-bsd
 # we are going to get NetworkManager
 # plus some VPN utilities
 net-vpn/wireguard-tools

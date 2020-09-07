@@ -19,3 +19,7 @@ media-fonts/terminus-font
 
 # standard font from gnome
 media-fonts/cantarell
+
+# latex fonts
+media-fonts/eb-garamond
+media-fonts/lato
