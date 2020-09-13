@@ -10,6 +10,7 @@ net-misc/telnet-bsd
 # plus some VPN utilities
 net-vpn/wireguard-tools
 # also get tor connectivity
+net-vpn/tor
 net-proxy/torsocks
 # get the UFW firewall because it is understandable
 net-firewall/ufw

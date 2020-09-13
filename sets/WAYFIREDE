@@ -23,7 +23,9 @@ gui-apps/swayidle
 gui-apps/swaylock
 
 # launchers
+gui-apps/waybar
 gui-apps/nwg-launchers
+gui-libs/wayland-logout
 
 # basic terminal
 x11-terms/alacritty
