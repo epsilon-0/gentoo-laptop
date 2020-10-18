@@ -2,4 +2,4 @@
 # required by dev-java/gin-2.1.2::gentoo
 # required by sci-mathematics/rstudio-1.2.5033::gentoo
 # required by rstudio (argument)
-=dev-java/json-20150729 JSON
+>=dev-java/json-20150729 JSON
