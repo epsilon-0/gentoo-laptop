@@ -1,9 +1,0 @@
-
-
-# required by media-libs/glu-9.0.1::gentoo
-# required by virtual/glu-9.0-r2::gentoo
-# required by app-emulation/wine-vanilla-4.0.2::gentoo[opengl]
-# required by virtual/wine-0-r7::gentoo
-# required by app-emulation/playonlinux-4.3.4::gentoo
-# required by playonlinux (argument)
->=virtual/opengl-7.0-r2 abi_x86_32

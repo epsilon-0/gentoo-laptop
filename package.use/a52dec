@@ -1,9 +1,0 @@
-
-
-# required by media-plugins/gst-plugins-a52dec-1.14.3::gentoo
-# required by media-plugins/gst-plugins-meta-1.14.3::gentoo[a52,dvd]
-# required by app-emulation/wine-vanilla-4.0.2::gentoo[gstreamer]
-# required by virtual/wine-0-r7::gentoo
-# required by app-emulation/playonlinux-4.3.4::gentoo
-# required by playonlinux (argument)
->=media-libs/a52dec-0.7.4-r7 abi_x86_32

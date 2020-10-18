@@ -1,8 +1,0 @@
-
-
-# required by dev-libs/libxslt-1.1.33-r1::gentoo[crypt]
-# required by app-emulation/wine-vanilla-4.0.2::gentoo[xml]
-# required by virtual/wine-0-r7::gentoo
-# required by app-emulation/playonlinux-4.3.4::gentoo
-# required by playonlinux (argument)
->=dev-libs/libgcrypt-1.8.5 abi_x86_32

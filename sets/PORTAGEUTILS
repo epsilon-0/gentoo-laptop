@@ -24,3 +24,5 @@ dev-util/pkgcheck
 app-portage/pfl
 # other utilities which make portage much better
 app-portage/portage-utils
+# identify lost files
+app-portage/portage-lostfiles

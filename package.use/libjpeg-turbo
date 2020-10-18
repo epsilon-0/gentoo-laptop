@@ -1,8 +1,0 @@
-
-
-# required by virtual/jpeg-0-r3::gentoo
-# required by app-emulation/wine-vanilla-4.0.2::gentoo[jpeg]
-# required by virtual/wine-0-r7::gentoo
-# required by app-emulation/playonlinux-4.3.4::gentoo
-# required by playonlinux (argument)
->=media-libs/libjpeg-turbo-2.0.3 abi_x86_32
