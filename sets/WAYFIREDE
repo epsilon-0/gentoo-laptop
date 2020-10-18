@@ -3,6 +3,9 @@
 
 ##### BASIC DESKTOP
 
+# need the display-manager
+gui-libs/display-manager-init
+
 # things made by ammen99
 gui-apps/wcm
 gui-apps/wf-shell
