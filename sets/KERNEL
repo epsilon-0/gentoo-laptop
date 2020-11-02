@@ -1,10 +1,6 @@
-# lit utilities needed for a good kernel
-# setup, so that we can boot as well
-# get genkernel, incase of any fuckups
-sys-kernel/genkernel
 # also get the gentoo sources (remember to turn
 # the needed flags on in package.us)
-sys-kernel/gentoo-sources
+sys-kernel/gentoo-kernel-bin
 # linux firmware is needed for microcode and other
 # important utilities
 sys-kernel/linux-firmware
