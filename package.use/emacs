@@ -1,1 +1,1 @@
-app-editors/emacs	-* acl dbus gmp gpm gui inotify lcms ssl svg threads zlib
+app-editors/emacs	-* acl dbus gmp gpm inotify lcms ssl threads zlib
