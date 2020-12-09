@@ -1,6 +1,6 @@
 # also get the gentoo sources (remember to turn
 # the needed flags on in package.us)
-sys-kernel/gentoo-kernel-bin
+sys-kernel/gentoo-sources
 # linux firmware is needed for microcode and other
 # important utilities
 sys-kernel/linux-firmware

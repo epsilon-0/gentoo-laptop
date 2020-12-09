@@ -1,1 +1,2 @@
->=sys-libs/zlib-1.2.11-r2 minizip
+sys-libs/zlib	minizip static-libs
+

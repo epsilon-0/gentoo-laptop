@@ -3,41 +3,21 @@
 
 ##### BASIC DESKTOP
 
+# simple DE
+gui-apps/wayfire-de
+
+gui-apps/swappy
+gui-apps/wcm
+app-shells/zsh
+media-fonts/joypixels
+
 # need the display-manager
 gui-libs/display-manager-init
-
-# things made by ammen99
-gui-apps/wcm
-gui-apps/wf-shell
-
-# get gtkgreet login manager
 gui-apps/gtkgreet
 
 ##### NATIVE WAYLAND APPS
 
-# output configurations
-gui-apps/kanshi
-
-# desktop notifications
-gui-apps/mako
-
-# idle and lockscreen
-gui-apps/swayidle
-gui-apps/swaylock
-
-# launchers
-gui-apps/waybar
-gui-apps/nwg-launchers
-gui-libs/wayland-logout
-
-# basic terminal
-x11-terms/alacritty
-
-# screenshots and video
-gui-apps/grim
-gui-apps/slurp
 gui-apps/wf-recorder
-
 
 ####### gnome core apps
 
@@ -55,9 +35,6 @@ gnome-extra/sushi
 # this is the default file archive manager
 # lets keep it as its quite good
 app-arch/file-roller
-
-# editing settings and themes
-gnome-base/dconf-editor
 
 # password managements utilities 
 app-crypt/gcr
@@ -96,6 +73,9 @@ gnome-base/gvfs
 ####### other utilities
 
 # other things not part of gnome but good to have
+
+# use -bin pkgs cuz we need to have a life
+
 # browser
 www-client/firefox-bin
 

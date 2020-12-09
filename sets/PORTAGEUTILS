@@ -1,20 +1,19 @@
 # tools needed for extending portage functionality
 # dank af and should definitely be kept in
 
+app-portage/gentoolkit
+app-portage/eix
 # quickly look up the description of a USE flag
 # euses <flag> : returns result on the whole database
 app-portage/euses
-# sakaki-tools repository for fast updating
-app-portage/genup
 # good way to maintain overlays
-app-portage/layman
+app-eselect/eselect-repository
+#app-portage/layman
 # should probably not neet it any more
 # but keep it in case of travelling
 app-portage/mirrorselect
 # for maintaining the overlay
 app-portage/repoman
-# view the output of genup
-app-portage/showem
 # enable caching for fast recompilations
 dev-util/ccache
 # more complex repository checker

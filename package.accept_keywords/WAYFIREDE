@@ -1,5 +1,10 @@
-gui-apps/wcm	     **
-gui-apps/wf-shell    **
-gui-wm/wayfire	     **
-gui-libs/wlroots     **
-gui-libs/wf-config   **
+gui-apps/wcm	       **
+gui-apps/wf-shell      **
+gui-wm/wayfire	       **
+gui-libs/wlroots       **
+gui-libs/wf-config     **
+gui-apps/nwg-launchers **
+gui-apps/waybar	       **
+gui-apps/wayland-logout **
+
+x11-themes/candy-icon-theme **

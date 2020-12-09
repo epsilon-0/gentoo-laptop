@@ -1,0 +1,4 @@
+# required by mkl (argument)
+>=sci-libs/mkl-2020.4.304 ISSL
+# required by android-sdk-update-manager (argument)
+>=dev-util/android-sdk-update-manager-24.4.1 android
