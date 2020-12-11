@@ -4,7 +4,7 @@
 ##### BASIC DESKTOP
 
 # simple DE
-gui-apps/wayfire-de
+#gui-apps/wayfire-de
 
 gui-apps/swappy
 gui-apps/wcm
@@ -22,7 +22,7 @@ gui-apps/wf-recorder
 ####### gnome core apps
 
 # some font utilities
-gnome-extra/gnome-characters
+#gnome-extra/gnome-characters
 gnome-extra/gucharmap
 media-gfx/gnome-font-viewer
 

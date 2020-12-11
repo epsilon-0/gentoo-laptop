@@ -1,11 +1,8 @@
 =dev-java/validation-api-1.0.0 source
->=dev-libs/libical-3.0.8 vala
 >=dev-cpp/glog-0.4.0 gflags
 >=sys-apps/util-linux-2.33.2 caps
 >=dev-lua/mpack-1.0.4 luajit
 >=net-libs/zeromq-4.3.2 drafts
->=app-text/poppler-0.89.0 qt5
->=app-text/texlive-core-2020-r5 xetex
 # required by dev-libs/libappindicator-12.10.0-r301::gentoo
 # required by gui-apps/waybar-0.9.4::gentoo[tray]
 # required by @WAYFIREDE
@@ -38,3 +35,15 @@
 # required by net-libs/gnome-online-accounts-3.36.0::gentoo
 # required by gnome-base/gnome-control-center-3.36.4::gentoo
 >=dev-ruby/xmlrpc-0.3.1 ruby_targets_ruby27
+# required by gnome-extra/sushi-3.34.0::gentoo
+# required by gnome-base/nautilus-3.36.3::gentoo[previewer]
+# required by @WAYFIREDE
+# required by @selected
+# required by @world (argument)
+>=x11-libs/gtk+-3.24.24-r1 introspection
+# required by gnome-extra/sushi-3.34.0::gentoo
+# required by gnome-base/nautilus-3.36.3::gentoo[previewer]
+# required by @WAYFIREDE
+# required by @selected
+# required by @world (argument)
+>=x11-libs/gdk-pixbuf-2.42.2 introspection
